@@ -1,4 +1,4 @@
-Project title:- **textutils**
+Project title:- **textuse**
 This project is created with the help of React Js.
 It is created using HTML, CSS,JavaScript,React perfomes normal operation
 on text.
