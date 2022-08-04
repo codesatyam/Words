@@ -1,3 +1,13 @@
+Project title:- **textutils**
+This project is created with the help of React Js.
+It is created using HTML, CSS,JavaScript,React perfomes normal operation
+on text.
+**Features:**
+1.It has a navbar containing  menu(Home,about) and in right corner a light/Dark mode switch is present, user can change mode according to choice.
+2.A text area is prsent in Home as textform component where use can type text and performe operation -change to Lowercase or Uppercase or clear text.
+3.User can track word count and character count of text and time to read the text .
+4.Preview of text present in text area.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
